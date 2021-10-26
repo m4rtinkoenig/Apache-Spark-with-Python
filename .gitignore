@@ -1,0 +1,15 @@
+# configuration related
+.editorconfig
+
+# virtual environment related
+venv*
+
+# python related
+__pycache__
+.ipynb_checkpoints
+
+# dev related 
+dev*
+
+# data related
+data/
